@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 a3e7c3be06f5997db264a40745013743cd7f0b08 Ann Ivanova <ivanova1nn11785@gmail.com> 1697911991 +0300	commit (initial): Example001_HelloConsole
+a3e7c3be06f5997db264a40745013743cd7f0b08 f3c6aec70ffed78ed1ac9e6975ee93cd4caa1bf7 Ann Ivanova <ivanova1nn11785@gmail.com> 1697912480 +0300	commit: Example001_Hello Console
+f3c6aec70ffed78ed1ac9e6975ee93cd4caa1bf7 0000000000000000000000000000000000000000 Ann Ivanova <ivanova1nn11785@gmail.com> 1697912557 +0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 f3c6aec70ffed78ed1ac9e6975ee93cd4caa1bf7 Ann Ivanova <ivanova1nn11785@gmail.com> 1697912557 +0300	Branch: renamed refs/heads/master to refs/heads/main
+f3c6aec70ffed78ed1ac9e6975ee93cd4caa1bf7 1e8c9219f6eebca2869262e9529687e5ee8a370d Ann Ivanova <ivanova1nn11785@gmail.com> 1697914303 +0300	commit: Example001_HelloConsole
+1e8c9219f6eebca2869262e9529687e5ee8a370d 2e30ce562290ad14cd9ee7ce1b6638d89548c17a Ann Ivanova <ivanova1nn11785@gmail.com> 1698004648 +0300	commit: Example002_HelloUser
+2e30ce562290ad14cd9ee7ce1b6638d89548c17a dc9d54ffc0a2e598abe17c4d36662c73edab9b04 Ann Ivanova <ivanova1nn11785@gmail.com> 1698004758 +0300	commit: add Example002_HelloUser
+dc9d54ffc0a2e598abe17c4d36662c73edab9b04 89fa1f93bcff2edc562f4309e0256cf877d66978 Ann Ivanova <ivanova1nn11785@gmail.com> 1698004979 +0300	commit: Example001-002
+89fa1f93bcff2edc562f4309e0256cf877d66978 106e34c63b3249de40880279568a4dbe426e6126 Ann Ivanova <ivanova1nn11785@gmail.com> 1698006506 +0300	commit: add Example003_Sum
+106e34c63b3249de40880279568a4dbe426e6126 90c0cc5b4fa616fb134eca533c323d9a196e64c3 Ann Ivanova <ivanova1nn11785@gmail.com> 1698007708 +0300	commit: add Example004_div
+90c0cc5b4fa616fb134eca533c323d9a196e64c3 c64e85fab05dda6841480b0ebdc7f453c31a38fb Ann Ivanova <ivanova1nn11785@gmail.com> 1698093994 +0300	commit: add Exemple005
+c64e85fab05dda6841480b0ebdc7f453c31a38fb c64e85fab05dda6841480b0ebdc7f453c31a38fb Ann Ivanova <ivanova1nn11785@gmail.com> 1698094085 +0300	checkout: moving from main to main

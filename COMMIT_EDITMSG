@@ -1,0 +1,36 @@
+add Example005_ConditionIfElse
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   Example005_ConditionIfElse/Example005_ConditionIfElse.csproj
+#	new file:   Example005_ConditionIfElse/Program.cs
+#	new file:   Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.deps.json
+#	new file:   Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.dll
+#	new file:   Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.exe
+#	new file:   Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.pdb
+#	new file:   Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.runtimeconfig.json
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.AssemblyInfo.cs
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.AssemblyInfoInputs.cache
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.GlobalUsings.g.cs
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.assets.cache
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.csproj.AssemblyReference.cache
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.csproj.FileListAbsolute.txt
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.dll
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.genruntimeconfig.cache
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.pdb
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/apphost.exe
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/ref/Example005_ConditionIfElse.dll
+#	new file:   Example005_ConditionIfElse/obj/Debug/net6.0/refint/Example005_ConditionIfElse.dll
+#	new file:   Example005_ConditionIfElse/obj/Example005_ConditionIfElse.csproj.nuget.dgspec.json
+#	new file:   Example005_ConditionIfElse/obj/Example005_ConditionIfElse.csproj.nuget.g.props
+#	new file:   Example005_ConditionIfElse/obj/Example005_ConditionIfElse.csproj.nuget.g.targets
+#	new file:   Example005_ConditionIfElse/obj/project.assets.json
+#	new file:   Example005_ConditionIfElse/obj/project.nuget.cache
+#
