@@ -1,0 +1,15 @@
+C:\Users\Ara\Desktop\Examples\Exemple005\obj\Debug\net6.0\Exemple005.csproj.AssemblyReference.cache
+C:\Users\Ara\Desktop\Examples\Exemple005\obj\Debug\net6.0\Exemple005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ara\Desktop\Examples\Exemple005\obj\Debug\net6.0\Exemple005.AssemblyInfoInputs.cache
+C:\Users\Ara\Desktop\Examples\Exemple005\obj\Debug\net6.0\Exemple005.AssemblyInfo.cs
+C:\Users\Ara\Desktop\Examples\Exemple005\obj\Debug\net6.0\Exemple005.csproj.CoreCompileInputs.cache
+C:\Users\Ara\Desktop\Examples\Exemple005\bin\Debug\net6.0\Exemple005.exe
+C:\Users\Ara\Desktop\Examples\Exemple005\bin\Debug\net6.0\Exemple005.deps.json
+C:\Users\Ara\Desktop\Examples\Exemple005\bin\Debug\net6.0\Exemple005.runtimeconfig.json
+C:\Users\Ara\Desktop\Examples\Exemple005\bin\Debug\net6.0\Exemple005.dll
+C:\Users\Ara\Desktop\Examples\Exemple005\bin\Debug\net6.0\Exemple005.pdb
+C:\Users\Ara\Desktop\Examples\Exemple005\obj\Debug\net6.0\Exemple005.dll
+C:\Users\Ara\Desktop\Examples\Exemple005\obj\Debug\net6.0\refint\Exemple005.dll
+C:\Users\Ara\Desktop\Examples\Exemple005\obj\Debug\net6.0\Exemple005.pdb
+C:\Users\Ara\Desktop\Examples\Exemple005\obj\Debug\net6.0\Exemple005.genruntimeconfig.cache
+C:\Users\Ara\Desktop\Examples\Exemple005\obj\Debug\net6.0\ref\Exemple005.dll
